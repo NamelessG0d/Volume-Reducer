@@ -1,0 +1,10 @@
+{
+  "Version": 1,
+  "Processes": [
+    {
+      "TargetChild": "CptHost.exe",
+      "TargetParent": "Zoom.exe",
+      "TargetVolume": 1
+    }
+  ]
+}
